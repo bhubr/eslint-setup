@@ -8,5 +8,11 @@
   },
   "keywords": [],
   "author": "Benoit Hubert <benoit.hubert@wildcodeschool.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^7.11.0"
+  },
+  "dependencies": {
+    "chalk": "^4.1.0"
+  }
 }
